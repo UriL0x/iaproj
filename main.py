@@ -149,7 +149,7 @@ autolabel(bars1)
 autolabel(bars2)    
 fig.tight_layout()
 plt.show()
-plt.savefig('model_comparison.png')
+
 
 
 
